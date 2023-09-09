@@ -22,11 +22,11 @@ body{
 }
 .content{
     height: 95%;
-    margin-top: 32px;
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
     gap: 12px;
+    margin-top: 32px;
 }
 .border{
     border: 3px solid red;
